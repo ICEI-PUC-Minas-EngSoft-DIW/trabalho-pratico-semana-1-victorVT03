@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Victor Gabriel Soares Ananias
+Matricula: 00903685
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print Ferramenta de desenvolvedor](images/printdevtools.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Print Replit](images/replitVictor.png)
 
 
 ## Orientações sobre Linguagem MarkDown
